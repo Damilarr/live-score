@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:live_score/homepage.dart';
+import 'package:live_score/home/homepage.dart';
 import 'package:live_score/onboarding.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:live_score/homepage.dart';
+import 'package:live_score/home/homepage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class Onboard {
